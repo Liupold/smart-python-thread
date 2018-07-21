@@ -1,5 +1,5 @@
 # Yamata orochi
-![Yamata-no-orochi]('Orochi.jpg')
+![Yamata-no-orochi](Orochi.jpg)
 Yamata orchini is a module for smart thread managment in python. It's small compact and get's the job done.
 
   - Run Unlimited thread
