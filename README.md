@@ -1,5 +1,5 @@
 # Yamata oroch
-https://github.com/Liupold/yamata-orochi/
+<https://github.com/Liupold/yamata-orochi/>
 ![Yamata-no-orochi](Orochi.jpg)
 Yamata orchini is a module for smart thread managment in python. It's small compact and get's the job done.
 
