@@ -11,7 +11,7 @@ from time import time, sleep
 # Effiecent_Theads
 
 class E_Thread(object):
-    def __init__(self, G_THREAD, timeout=1, Max_thread=200):
+    def __init__(self, G_THREAD, timeout=100000, Max_thread=200):
         self.G_TH = G_THREAD
         self.timeout = timeout  # will prevent from waiting for the thread
         self.TH_Q = Queue(Max_thread)     # the Queue containg threads
